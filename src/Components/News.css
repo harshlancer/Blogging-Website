@@ -1,0 +1,41 @@
+/* News.css */
+
+.news {
+    margin-top: 20px;
+    padding: 20px;
+    height: 100vh;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .news.night-mode {
+    background-color: #333;
+    color: #f8f8f8;
+  }
+  
+  .news h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: inherit;
+  }
+  
+  .news-item {
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  }
+  
+  .news-item h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: inherit;
+
+  }
+  
+  .news-item p {
+    font-size: 14px;
+    color: inherit;
+  }
+  
